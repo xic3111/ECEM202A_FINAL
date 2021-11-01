@@ -1,6 +1,6 @@
 # ECE M202A Final Project
 
-Xiaowen Chen and Spencer Czerwinski
+# Xiaowen Chen and Spencer Czerwinski
 
 # 1. Introduction
 
