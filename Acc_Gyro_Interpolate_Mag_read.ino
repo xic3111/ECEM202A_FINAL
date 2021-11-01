@@ -31,23 +31,23 @@ void loop() {
 //        //Keep previous values
 //      }
       
-      Serial.print(acc_x,3);
+      Serial.print(acc_x,6);
       Serial.print(',');
-      Serial.print(acc_y,3);
+      Serial.print(acc_y,6);
       Serial.print(',');
-      Serial.print(acc_z,3);
+      Serial.print(acc_z,6);
       Serial.print(',');
-      Serial.print(gyro_x,3);
+      Serial.print(gyro_x,6);
       Serial.print(',');
-      Serial.print(gyro_y,3);
+      Serial.print(gyro_y,6);
       Serial.print(',');
-      Serial.print(gyro_z,3);
+      Serial.print(gyro_z,6);
 //      Serial.print(',');
-//      Serial.print(mag_x,3);
+//      Serial.print(mag_x,6);
 //      Serial.print(',');
-//      Serial.print(mag_y,3);
+//      Serial.print(mag_y,6);
 //      Serial.print(',');
-//      Serial.print(mag_z,3);
+//      Serial.print(mag_z,6);
       Serial.println();
       samplesRead++;
     }
