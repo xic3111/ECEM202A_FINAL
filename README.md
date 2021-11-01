@@ -1,4 +1,4 @@
-# ECE M202A Final Project
+# Virtual Numeric Keyboard
 
 # Xiaowen Chen and Spencer Czerwinski
 
